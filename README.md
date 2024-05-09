@@ -1,3 +1,7 @@
+My trained mode of 0.5 in TestTask.ipynb,
+-download weights: https://drive.google.com/file/d/1cE4TM9SEvhWJ6DN9WdxobyJFuO4OQpbs/view?usp=sharing
+put to ./work_dirs/scrfd_500m/
+
 ## Introduction
 
 SCRFD is an efficient high accuracy face detection approach which initially described in [Arxiv](https://arxiv.org/abs/2105.04714), and accepted by ICLR-2022.
